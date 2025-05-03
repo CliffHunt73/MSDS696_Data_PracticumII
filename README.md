@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 
@@ -34,3 +35,6 @@ Results_Comparison.ipynb - compares the performance of multiple predictive model
 AdaBoost_GHG_filtered_z_data.ipynb - This notebook builds and evaluates an AdaBoost regression model to predict Scope 3 greenhouse gas emissions using filtered z-score standardized data. The analysis focuses on leveraging financial and Scope 1 & 2 emission features to estimate Scope 3 amounts, with preprocessing ensuring that only valid, standardized inputs are used. Model performance is assessed using metrics such as R², RMSE, and MAPE. This approach aims to improve prediction accuracy while reducing the influence of extreme outliers.
 
 AdaBoost_filtered_z_data_Industry - This notebook explored an alternative modeling approach by restructuring the dataframes by Industry rather than Scope 3 Source Type. The rationale was that emission types might be more closely linked to industry characteristics. However, the resulting performance metrics were significantly lower than those from the original structure, so this approach was not pursued further."# MSDS696_Data_PracticumII" 
+
+# MSDS696_Data_PracticumII
+e026b9c16e24a17601760e14371a5f366bbeb5bb
