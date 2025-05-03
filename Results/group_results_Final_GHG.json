@@ -1,0 +1,121 @@
+﻿{
+    "Business travel": {
+        "rmsle": 1.1594356244800312,
+        "r2_score": 0.6218890803353494,
+        "best_depth": 12,
+        "n_train": 3984,
+        "n_test": 996
+    },
+    "Capital goods": {
+        "rmsle": 1.244601633883597,
+        "r2_score": 0.6355146409184171,
+        "best_depth": 14,
+        "n_train": 2241,
+        "n_test": 561
+    },
+    "Downstream leased assets": {
+        "rmsle": 1.4097230825485814,
+        "r2_score": 0.7197178165681886,
+        "best_depth": 14,
+        "n_train": 800,
+        "n_test": 200
+    },
+    "Downstream transportation and distribution": {
+        "rmsle": 1.3087036324848647,
+        "r2_score": 0.7356358771709057,
+        "best_depth": 12,
+        "n_train": 1583,
+        "n_test": 396
+    },
+    "Employee commuting": {
+        "rmsle": 0.9496082697704014,
+        "r2_score": 0.7726638641553427,
+        "best_depth": 16,
+        "n_train": 3071,
+        "n_test": 768
+    },
+    "End of life treatment of sold products": {
+        "rmsle": 1.4177083934520502,
+        "r2_score": 0.7884378017812664,
+        "best_depth": 14,
+        "n_train": 1555,
+        "n_test": 389
+    },
+    "Franchises": {
+        "rmsle": 1.2044347321423987,
+        "r2_score": 0.8702652721766422,
+        "best_depth": 8,
+        "n_train": 262,
+        "n_test": 66
+    },
+    "Fuel-and-energy-related activities (not included in Scope 1 or 2)": {
+        "rmsle": 1.168399683457521,
+        "r2_score": 0.8038222478086479,
+        "best_depth": 16,
+        "n_train": 3192,
+        "n_test": 798
+    },
+    "Investments": {
+        "rmsle": 1.7981550930771701,
+        "r2_score": 0.5508462808150298,
+        "best_depth": 12,
+        "n_train": 643,
+        "n_test": 161
+    },
+    "Other (downstream)": {
+        "rmsle": 2.3624735110331483,
+        "r2_score": 0.5600932519058806,
+        "best_depth": 6,
+        "n_train": 88,
+        "n_test": 23
+    },
+    "Other (upstream)": {
+        "rmsle": 2.227184718982882,
+        "r2_score": 0.5794823834554302,
+        "best_depth": 14,
+        "n_train": 154,
+        "n_test": 39
+    },
+    "Processing of sold products": {
+        "rmsle": 1.5392480152348862,
+        "r2_score": 0.7231849119529212,
+        "best_depth": 14,
+        "n_train": 440,
+        "n_test": 111
+    },
+    "Purchased goods and services": {
+        "rmsle": 1.2985009243742385,
+        "r2_score": 0.8223993284174554,
+        "best_depth": 16,
+        "n_train": 3429,
+        "n_test": 858
+    },
+    "Upstream leased assets": {
+        "rmsle": 1.178448733622735,
+        "r2_score": 0.7219963512815204,
+        "best_depth": 14,
+        "n_train": 822,
+        "n_test": 206
+    },
+    "Upstream transportation and distribution": {
+        "rmsle": 1.2372021437780645,
+        "r2_score": 0.7771214288976629,
+        "best_depth": 14,
+        "n_train": 2612,
+        "n_test": 653
+    },
+    "Use of sold products": {
+        "rmsle": 1.3249333990251473,
+        "r2_score": 0.7953814896151504,
+        "best_depth": 16,
+        "n_train": 1599,
+        "n_test": 400
+    },
+    "Waste generated in operations": {
+        "rmsle": 1.224095993594285,
+        "r2_score": 0.7475849428298729,
+        "best_depth": 16,
+        "n_train": 3232,
+        "n_test": 809
+    }
+}
