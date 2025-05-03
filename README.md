@@ -1,5 +1,10 @@
 <<<<<<< HEAD
 
+MSDS696 Data Practicum II: Estimating Scope 3 Emissions at Scale
+
+This project focuses on building scalable, interpretable models to estimate corporate Scope 3 greenhouse gas emissions using a combination of financial data, Scope 1 & 2 emissions, and company metadata reported to CDP from 2013–2023. After extensive data cleaning and integration—including backfilling missing metadata and standardizing emissions figures—various predictive modeling approaches were evaluated, including AdaBoost regressors and hierarchical linear models (HLMs) with sector- and company-level random effects. To address the influence of extreme outliers, the analysis employed z-score filtering, winsorization, and residual correction techniques.
+
+The final models demonstrated the value of hierarchical structures and residual learning for improving accuracy, particularly in underrepresented cases. While most results were included in the final presentation, some follow-on work (e.g., modeling with winsorized data) was completed afterward and included here for completeness and future exploration.
 
 
 Practicum II Data Prep.ipynb - designed for preprocessing corporate emissions and financial data in preparation for modeling Scope 3 greenhouse gas emissions. It includes data cleaning, log transformations, feature engineering, and the creation of grouped datasets based on key categorical attributes. The notebook sets the foundation for hierarchical and residual modeling workflows by structuring inputs and removing inconsistencies. Produces account_dictionary.json which can be used to fill in needed data before modeling.
